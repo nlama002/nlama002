@@ -1,7 +1,3 @@
-# nimalama
-<img src="nima.jpeg" width="150" style="border-radius: 50%;" alt="Nima Tshering Lama Headshot">
-
-
 # 👋 Hello there! I'm Nima Tshering Lama
 
 🎓 Master’s Student in  Data Science
