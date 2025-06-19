@@ -5,9 +5,9 @@ My name is Nima Lama and I am an aspiring data scientist passionate about turnin
 Some of my interests, apart from academics, include running, photography/videography, and being a creative. I am based in NYC and originally from Nepal.
 
 ## 🧠 What I’m Working On
-- Google Project: Bellabeat Marketing Campaign with the use of Fitbit Data.
+- Google Capstone Project for Fitbit Data.
   (https://github.com/nlama002/Bellabeat_Case_Study)
-- Columbia Data Science Project on NY Transportation
+- Columbia Data Science Project on NY Transportation.
   (https://github.com/nlama002/Traffic_Analysis)
 - Currently learning prompt engineering in Data Camp and diving into AI.
   
