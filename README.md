@@ -5,8 +5,8 @@
 📊 Aspiring Data Scientist | 📈 Passionate about turning data into insights
 
 ## 🧠 What I’m Working On
-- Google Project: Bellabeat Marketing Campaign with use of Fitbit Data
-- Creating a GitHub portfolio to showcase real-world projects
+- Google Project: Bellabeat Marketing Campaign with use of Fitbit Data.
+- Currently learning prompt engineering in data camp.
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
