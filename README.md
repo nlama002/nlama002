@@ -9,6 +9,8 @@ Some of my interests, apart from academics, include running, photography/videogr
   (https://github.com/nlama002/Bellabeat_Case_Study)
 - Columbia Data Science Project on NY Transportation.
   (https://github.com/nlama002/Traffic_Analysis)
+- Global Superstore SQL analysis.
+  (https://github.com/nlama002/Global-Superstore-SQL-Analysis/tree/main)
 - Currently learning prompt engineering in Data Camp and diving into AI.
   
 
