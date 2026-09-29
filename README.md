@@ -26,15 +26,6 @@ Analyzed 108K+ orders across 4 related tables using CTEs, window functions, and 
 
 ---
 
-### 🛒 [Global Superstore Sales Analysis](https://github.com/nlama002/Global-Superstore-SQL-Analysis)
-**SQL · Google BigQuery**  
-Analyzed $12M+ in sales data across 4 regions and 3 customer segments using advanced SQL 
-(CTEs, window functions, aggregations). Surfaced pricing inefficiencies and identified the 
-Home Office segment operating at an 11.99% margin — enabling targeted resource allocation 
-recommendations.
-
----
-
 ### 🚗 [NYC Motor Vehicle Collision Analysis](https://github.com/nlama002/Traffic_Analysis)
 **Python · Pandas · Seaborn · Tableau**  
 Merged and cleaned large-scale NYC Open Data collision records. Built geospatial heatmaps 
