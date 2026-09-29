@@ -20,6 +20,12 @@ in healthcare, nonprofit, business, and product analytics.
 
 ## 📂 Featured Projects
 
+### 📦 [E-Commerce Order Analysis](https://github.com/nlama002/ecom_analysis)
+**SQL (BigQuery) · Excel**  
+Analyzed 108K+ orders across 4 related tables using CTEs, window functions, and conditional aggregation. Found that 4 products drive ~96% of revenue, laptops are refunded at 2x the company average, and October sales drops are worsening year over year — with recommendations on promotions, inventory timing, and refund root-cause review.
+
+---
+
 ### 🛒 [Global Superstore Sales Analysis](https://github.com/nlama002/Global-Superstore-SQL-Analysis)
 **SQL · Google BigQuery**  
 Analyzed $12M+ in sales data across 4 regions and 3 customer segments using advanced SQL 
